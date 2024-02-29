@@ -10,7 +10,7 @@ I'm self-taught in Front-end development, I've been learning for 2 years, I star
 * 🌍  I'm based in Algeria in a city called Oran
 * 🖥️  See my portfolio at [MyPortfolio](http://mounirwebdev.github.io/Front-End-Portfolio/)
 * ✉️  You can contact me at [mounirabcire@gmail.com](mailto:mounirabcire@gmail.com)
-* 🚀  I'm currently working on [a simple bank REACT application](http://github.com/mounirabcire/myBanki)
+* 🚀  I'm currently working on [adventureMemo REACT application](http://github.com/mounirabcire/adventureMemo)
 * 🧠  I'm learning Framer Motion, Spline, and tailwindcss with real-world projects
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
