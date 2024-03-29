@@ -9,8 +9,8 @@ I'm self-taught in Front-end development, I've been learning for 2 years, I star
 
 * 🌍  I'm based in Algeria in a city called Oran
 * 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
-* ✉️  You can contact me at [mounirabcire@gmail.com](mailto:mounirabcire@gmail.com)
-* 🚀  I'm currently [building a lading page with using sass](http://github.com/mounirabcire/natours)
+* ✉️  You can contact me at [mounirwebdevcode@gmail.com](mailto:mounirwebdevcode@gmail.com)
+* 🚀  I'm currently [building a lading page using sass](http://github.com/mounirabcire/natours)
 * 🧠  I'm currently learning sass
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
