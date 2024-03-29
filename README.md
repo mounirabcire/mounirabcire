@@ -8,10 +8,10 @@ Junior Front-end Developer
 I'm self-taught in Front-end development, I've been learning for 2 years, I started with HTML, CSS, JAVASCRIPT, and REACT and now I'm learning new frameworks with building projects such as tailwindcss, framer motion, supabase, and spline
 
 * 🌍  I'm based in Algeria in a city called Oran
-* 🖥️  See my portfolio at [MyPortfolio](http://mounirwebdev.github.io/Front-End-Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
 * ✉️  You can contact me at [mounirabcire@gmail.com](mailto:mounirabcire@gmail.com)
-* 🚀  I'm currently working on [a new version of my protfolio](http://github.com/mounirabcire/mounir.codes)
-* 🧠  I'm learning Framer Motion, Spline, and tailwindcss with real-world projects
+* 🚀  I'm currently [building a lading page with using sass](http://github.com/mounirabcire/natours)
+* 🧠  I'm currently learning sass
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
 ### Skills
