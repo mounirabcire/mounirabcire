@@ -5,13 +5,15 @@ Junior Front-end Developer
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 --------------------------
 
-I'm self-taught in Front-end development, I've been learning for 2 years, I started with HTML, CSS, JAVASCRIPT, and REACT and now I'm learning new frameworks with building projects such as tailwindcss, framer motion, supabase, and spline
+Third-year Computer Science student and self-taught, passionate, dedicated Junior Front-End Developer with a strong focus on React. Currently pursuing a Bachelor of Computer Science at the University of Science and Technology of Oran Mohamed-Boudiaf (USTOMB). I have a solid foundation in front-end web development and am eager to leverage my skills in a professional environment.
+
+In addition to my development work, I am also a content creator. I enjoy sharing my knowledge, experiences, and fun tech-related content with the community.
 
 * 🌍  I'm based in Algeria in a city called Oran
 * 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
 * ✉️  You can contact me at [mounirwebdevcode@gmail.com](mailto:mounirwebdevcode@gmail.com)
-* 🚀  I'm currently learning Back-end Nodejs & MongoDB database.
-* 🧠  I'm currently learning Grid
+* 🚀  I'm currently building a coffee shop website.
+* 🧠  I'm currently Back-end Nodejs & MongoDB database.
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
 ### Skills
