@@ -10,12 +10,18 @@ I'm self-taught in Front-end development, I've been learning for 2 years, I star
 * 🌍  I'm based in Algeria in a city called Oran
 * 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
 * ✉️  You can contact me at [mounirwebdevcode@gmail.com](mailto:mounirwebdevcode@gmail.com)
-* 🚀  I'm currently [building a pizza delivery app using React](http://github.com/mounirabcire/QuickSlice)
+* 🚀  I'm currently learning Back-end Nodejs & MongoDB database.
 * 🧠  I'm currently learning Grid
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
 ### Skills
 `HTML & CSS`
+`tailwindcss`
+`SASS`  
+`JavaScript`
+`React`
+`Framer Motion`
+`Gsap`
 
 
 
