@@ -13,7 +13,7 @@ In addition to my development work, I am also a content creator. I enjoy sharing
 * 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
 * ✉️  You can contact me at [mounirwebdevcode@gmail.com](mailto:mounirwebdevcode@gmail.com)
 * 🚀  I'm currently building a coffee shop website.
-* 🧠  I'm currently Back-end Nodejs & MongoDB database.
+* 🧠  I'm currently learning Back-end Nodejs & MongoDB database.
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
 ### Skills
@@ -24,6 +24,7 @@ In addition to my development work, I am also a content creator. I enjoy sharing
 `React`
 `Framer Motion`
 `Gsap`
+`Figma`
 
 ### Badges
 
