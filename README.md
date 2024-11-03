@@ -12,8 +12,7 @@ In addition to my development work, I am also a content creator. I enjoy sharing
 * 🌍  I'm based in Algeria in a city called Oran
 * 🖥️  See my portfolio at [MyPortfolio](https://mounir-codes.vercel.app/)
 * ✉️  You can contact me at [mounirwebdevcode@gmail.com](mailto:mounirwebdevcode@gmail.com)
-* 🚀  I'm currently building a coffee shop website.
-* 🧠  I'm currently learning Back-end Nodejs & MongoDB database.
+* 🚀  I'm currently working on my final year project of my cs bachelor's degree. [carZone](https://github.com/mounirabcire/carZone)
 * ⚡  I'm a fun person. I love Dragon Ball 🐉 and One Piece 👒
 
 ### Skills
