@@ -24,6 +24,7 @@ In addition to my development work, I am also a content creator. I enjoy sharing
 `Framer Motion`
 `Gsap`
 `Figma`
+`Git & GitHub`
 
 ### Badges
 
