@@ -20,7 +20,10 @@ In addition to my development work, I am also a content creator. I enjoy sharing
 `tailwindcss`
 `SASS`  
 `JavaScript`
+`typescript`
 `React`
+`Redux Toolkit`
+`Firebase`
 `Framer Motion`
 `Gsap`
 `Figma`
